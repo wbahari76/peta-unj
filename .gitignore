@@ -8,10 +8,7 @@ __pycache__/
 cache/
 
 # SQLite databases
-database/*.sqlite
-database/*.db
-*.sqlite
-*.db
+# (Database utama kita ikutkan ke dalam Git agar Streamlit bisa membacanya)
 
 # Streamlit secrets (keep configs but ignore secret credentials)
 .streamlit/secrets.toml
