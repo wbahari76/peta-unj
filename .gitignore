@@ -1,0 +1,22 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OSMnx/NetworkX network cache
+cache/
+
+# SQLite databases
+database/*.sqlite
+database/*.db
+*.sqlite
+*.db
+
+# Streamlit secrets (keep configs but ignore secret credentials)
+.streamlit/secrets.toml
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/

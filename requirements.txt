@@ -1,0 +1,14 @@
+streamlit>=1.32.0
+folium>=0.16.0
+streamlit-folium>=0.20.0
+pandas>=2.1.0
+networkx>=3.2.0
+plotly>=5.18.0
+streamlit-js-eval>=0.1.7
+
+# Opsional — hanya diperlukan untuk mode routing OSM (kualitas setara
+# Google Maps). Tanpa paket ini, aplikasi tetap berjalan normal memakai
+# mode waypoint offline (fallback). Untuk mengaktifkan mode OSM:
+#   pip install osmnx
+#   python database/build_network.py
+osmnx>=2.0.0

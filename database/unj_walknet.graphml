@@ -1,0 +1,3805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d18" for="edge" attr.name="bridge" attr.type="string" />
+  <key id="d17" for="edge" attr.name="access" attr.type="string" />
+  <key id="d16" for="edge" attr.name="est_width" attr.type="string" />
+  <key id="d15" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d14" for="edge" attr.name="length" attr.type="string" />
+  <key id="d13" for="edge" attr.name="reversed" attr.type="string" />
+  <key id="d12" for="edge" attr.name="width" attr.type="string" />
+  <key id="d11" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d10" for="edge" attr.name="name" attr.type="string" />
+  <key id="d9" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d8" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d7" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d6" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d5" for="node" attr.name="x" attr.type="string" />
+  <key id="d4" for="node" attr.name="y" attr.type="string" />
+  <key id="d3" for="graph" attr.name="simplified" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="310327455">
+      <data key="d4">-6.1968884</data>
+      <data key="d5">106.8766442</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="324851913">
+      <data key="d4">-6.1925111</data>
+      <data key="d5">106.8773194</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842311">
+      <data key="d4">-6.1930165</data>
+      <data key="d5">106.8803214</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842312">
+      <data key="d4">-6.1937828</data>
+      <data key="d5">106.8796964</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842316">
+      <data key="d4">-6.1944488</data>
+      <data key="d5">106.8767156</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842345">
+      <data key="d4">-6.195863</data>
+      <data key="d5">106.8789067</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842352">
+      <data key="d4">-6.1968834</data>
+      <data key="d5">106.8790055</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842377">
+      <data key="d4">-6.1935752</data>
+      <data key="d5">106.8775012</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="1311842383">
+      <data key="d4">-6.1937389</data>
+      <data key="d5">106.8791546</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842385">
+      <data key="d4">-6.1959401</data>
+      <data key="d5">106.8794831</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842400">
+      <data key="d4">-6.1935295</data>
+      <data key="d5">106.8770643</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1311842404">
+      <data key="d4">-6.1953012</data>
+      <data key="d5">106.880012</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1311842411">
+      <data key="d4">-6.1958808</data>
+      <data key="d5">106.8765955</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069327">
+      <data key="d4">-6.1963446</data>
+      <data key="d5">106.8762306</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069330">
+      <data key="d4">-6.1959491</data>
+      <data key="d5">106.8781094</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="1315069341">
+      <data key="d4">-6.1960755</data>
+      <data key="d5">106.8794784</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069346">
+      <data key="d4">-6.1952559</data>
+      <data key="d5">106.8795521</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="1315069359">
+      <data key="d4">-6.1957372</data>
+      <data key="d5">106.8802963</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069360">
+      <data key="d4">-6.195761</data>
+      <data key="d5">106.8806016</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069361">
+      <data key="d4">-6.1955057</data>
+      <data key="d5">106.8766177</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069362">
+      <data key="d4">-6.1931373</data>
+      <data key="d5">106.8814877</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069375">
+      <data key="d4">-6.1956079</data>
+      <data key="d5">106.8795096</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069381">
+      <data key="d4">-6.1960972</data>
+      <data key="d5">106.8799032</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069387">
+      <data key="d4">-6.1950505</data>
+      <data key="d5">106.8766446</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069404">
+      <data key="d4">-6.1956692</data>
+      <data key="d5">106.8795046</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069405">
+      <data key="d4">-6.1953711</data>
+      <data key="d5">106.8781845</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315069411">
+      <data key="d4">-6.1957135</data>
+      <data key="d5">106.8799387</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1315125459">
+      <data key="d4">-6.1929305</data>
+      <data key="d5">106.8814789</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1320321336">
+      <data key="d4">-6.1925228</data>
+      <data key="d5">106.8774148</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1696170853">
+      <data key="d4">-6.1926992</data>
+      <data key="d5">106.8772269</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4262120783">
+      <data key="d4">-6.1959451</data>
+      <data key="d5">106.8775253</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4415579285">
+      <data key="d4">-6.1953421</data>
+      <data key="d5">106.8803331</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513182381">
+      <data key="d4">-6.1955283</data>
+      <data key="d5">106.8781652</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513182382">
+      <data key="d4">-6.1955327</data>
+      <data key="d5">106.8782879</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513182387">
+      <data key="d4">-6.1952435</data>
+      <data key="d5">106.8789984</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513182388">
+      <data key="d4">-6.1955853</data>
+      <data key="d5">106.8787647</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="4513182490">
+      <data key="d4">-6.1951998</data>
+      <data key="d5">106.8783025</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="4513190959">
+      <data key="d4">-6.1936584</data>
+      <data key="d5">106.8783285</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513190960">
+      <data key="d4">-6.1938445</data>
+      <data key="d5">106.8783177</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="4513190961">
+      <data key="d4">-6.1936529</data>
+      <data key="d5">106.8782341</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513190963">
+      <data key="d4">-6.1937104</data>
+      <data key="d5">106.8778383</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513190964">
+      <data key="d4">-6.1936152</data>
+      <data key="d5">106.877848</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513190968">
+      <data key="d4">-6.1937498</data>
+      <data key="d5">106.877481</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4513190969">
+      <data key="d4">-6.1946848</data>
+      <data key="d5">106.8766726</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4746293173">
+      <data key="d4">-6.1944845</data>
+      <data key="d5">106.8774029</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4758805494">
+      <data key="d4">-6.1968857</data>
+      <data key="d5">106.8789127</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984239">
+      <data key="d4">-6.1928317</data>
+      <data key="d5">106.8804688</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984244">
+      <data key="d4">-6.1928918</data>
+      <data key="d5">106.8811054</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984308">
+      <data key="d4">-6.1927692</data>
+      <data key="d5">106.8798944</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984427">
+      <data key="d4">-6.1926727</data>
+      <data key="d5">106.878945</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984436">
+      <data key="d4">-6.1925923</data>
+      <data key="d5">106.8781039</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984662">
+      <data key="d4">-6.1939008</data>
+      <data key="d5">106.8811707</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984666">
+      <data key="d4">-6.1931079</data>
+      <data key="d5">106.8812267</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984668">
+      <data key="d4">-6.1941873</data>
+      <data key="d5">106.8796525</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984670">
+      <data key="d4">-6.194899</data>
+      <data key="d5">106.8795838</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984671">
+      <data key="d4">-6.1961236</data>
+      <data key="d5">106.8803856</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4884984707">
+      <data key="d4">-6.1966947</data>
+      <data key="d5">106.8766004</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="4884984708">
+      <data key="d4">-6.1967362</data>
+      <data key="d5">106.876534</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="4905288509">
+      <data key="d4">-6.1955451</data>
+      <data key="d5">106.8772967</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5374804755">
+      <data key="d4">-6.1925924</data>
+      <data key="d5">106.87629</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5464300013">
+      <data key="d4">-6.1959161</data>
+      <data key="d5">106.8774385</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5492769431">
+      <data key="d4">-6.196836</data>
+      <data key="d5">106.8801723</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5492769434">
+      <data key="d4">-6.1952345</data>
+      <data key="d5">106.8808867</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="5492769436">
+      <data key="d4">-6.1959464</data>
+      <data key="d5">106.8782877</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5655325509">
+      <data key="d4">-6.1947748</data>
+      <data key="d5">106.8810229</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="5655325515">
+      <data key="d4">-6.196796</data>
+      <data key="d5">106.8809304</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5662570822">
+      <data key="d4">-6.1924219</data>
+      <data key="d5">106.8770552</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6331051811">
+      <data key="d4">-6.193092</data>
+      <data key="d5">106.8763052</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6331178745">
+      <data key="d4">-6.1953818</data>
+      <data key="d5">106.8806233</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6498113937">
+      <data key="d4">-6.1959289</data>
+      <data key="d5">106.8789497</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="6517605410">
+      <data key="d4">-6.1949271</data>
+      <data key="d5">106.8799822</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="6618132189">
+      <data key="d4">-6.1968327</data>
+      <data key="d5">106.880294</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6618132190">
+      <data key="d4">-6.1971137</data>
+      <data key="d5">106.8804274</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6618132191">
+      <data key="d4">-6.196837</data>
+      <data key="d5">106.8800892</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6618132192">
+      <data key="d4">-6.196822</data>
+      <data key="d5">106.8804888</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6618132196">
+      <data key="d4">-6.1970438</data>
+      <data key="d5">106.8803884</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6776173075">
+      <data key="d4">-6.1951078</data>
+      <data key="d5">106.8773402</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="6928918068">
+      <data key="d4">-6.19557</data>
+      <data key="d5">106.8791068</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="6929580564">
+      <data key="d4">-6.1942104</data>
+      <data key="d5">106.8799411</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7030879670">
+      <data key="d4">-6.1940765</data>
+      <data key="d5">106.8792258</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7053502365">
+      <data key="d4">-6.1962153</data>
+      <data key="d5">106.8794751</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7082773759">
+      <data key="d4">-6.1927878</data>
+      <data key="d5">106.8772135</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7119265494">
+      <data key="d4">-6.1946885</data>
+      <data key="d5">106.8767247</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7137185143">
+      <data key="d4">-6.1930009</data>
+      <data key="d5">106.8801576</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7137185146">
+      <data key="d4">-6.1930585</data>
+      <data key="d5">106.879724</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7137185150">
+      <data key="d4">-6.1927945</data>
+      <data key="d5">106.8801315</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7137185154">
+      <data key="d4">-6.192759</data>
+      <data key="d5">106.8777736</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7137185157">
+      <data key="d4">-6.1925534</data>
+      <data key="d5">106.8777312</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7140296514">
+      <data key="d4">-6.1967814</data>
+      <data key="d5">106.8797244</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7224358837">
+      <data key="d4">-6.196845</data>
+      <data key="d5">106.879712</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7224656701">
+      <data key="d4">-6.1959277</data>
+      <data key="d5">106.878861</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="7224656710">
+      <data key="d4">-6.1951477</data>
+      <data key="d5">106.8780389</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7226690313">
+      <data key="d4">-6.1933144</data>
+      <data key="d5">106.8810764</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7226690317">
+      <data key="d4">-6.1930337</data>
+      <data key="d5">106.8804987</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8313064070">
+      <data key="d4">-6.1931759</data>
+      <data key="d5">106.8795914</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="8313064071">
+      <data key="d4">-6.1937673</data>
+      <data key="d5">106.8795031</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8481827344">
+      <data key="d4">-6.1929265</data>
+      <data key="d5">106.8773238</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8481827349">
+      <data key="d4">-6.1927807</data>
+      <data key="d5">106.8779641</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8496544020">
+      <data key="d4">-6.1939832</data>
+      <data key="d5">106.8768708</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="8496544024">
+      <data key="d4">-6.1941618</data>
+      <data key="d5">106.8769895</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8496544026">
+      <data key="d4">-6.1944576</data>
+      <data key="d5">106.8770116</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8506578064">
+      <data key="d4">-6.1928904</data>
+      <data key="d5">106.8779497</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="8784515308">
+      <data key="d4">-6.1946391</data>
+      <data key="d5">106.8780886</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9027793150">
+      <data key="d4">-6.1967272</data>
+      <data key="d5">106.8783034</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9027793161">
+      <data key="d4">-6.1946885</data>
+      <data key="d5">106.8783514</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9027920353">
+      <data key="d4">-6.1967259</data>
+      <data key="d5">106.8783859</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9027920354">
+      <data key="d4">-6.1968976</data>
+      <data key="d5">106.8783884</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9027920355">
+      <data key="d4">-6.1967177</data>
+      <data key="d5">106.8787719</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9027920357">
+      <data key="d4">-6.1927399</data>
+      <data key="d5">106.8814927</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9027920364">
+      <data key="d4">-6.1924606</data>
+      <data key="d5">106.8814977</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9027920368">
+      <data key="d4">-6.1933252</data>
+      <data key="d5">106.8814693</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9028008487">
+      <data key="d4">-6.1929446</data>
+      <data key="d5">106.879636</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9028008489">
+      <data key="d4">-6.1929808</data>
+      <data key="d5">106.8779379</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9028115630">
+      <data key="d4">-6.1966547</data>
+      <data key="d5">106.8789887</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9028115631">
+      <data key="d4">-6.1966567</data>
+      <data key="d5">106.8788998</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9028249470">
+      <data key="d4">-6.1941365</data>
+      <data key="d5">106.8767441</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9028249471">
+      <data key="d4">-6.1930496</data>
+      <data key="d5">106.8796147</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="9028249477">
+      <data key="d4">-6.1928871</data>
+      <data key="d5">106.876295</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9346226527">
+      <data key="d4">-6.1933607</data>
+      <data key="d5">106.8811342</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9605264256">
+      <data key="d4">-6.1944331</data>
+      <data key="d5">106.8765523</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9682636862">
+      <data key="d4">-6.1956555</data>
+      <data key="d5">106.8774722</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9684385596">
+      <data key="d4">-6.1959392</data>
+      <data key="d5">106.8794153</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9684385597">
+      <data key="d4">-6.1959317</data>
+      <data key="d5">106.8790416</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9684739690">
+      <data key="d4">-6.1925155</data>
+      <data key="d5">106.8773486</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9684739699">
+      <data key="d4">-6.1928491</data>
+      <data key="d5">106.8806731</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9684739702">
+      <data key="d4">-6.1928379</data>
+      <data key="d5">106.8805406</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9684739709">
+      <data key="d4">-6.1929234</data>
+      <data key="d5">106.8814189</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9684739712">
+      <data key="d4">-6.1928982</data>
+      <data key="d5">106.88116</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9685151096">
+      <data key="d4">-6.1930934</data>
+      <data key="d5">106.8810891</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9685151098">
+      <data key="d4">-6.1927142</data>
+      <data key="d5">106.8773743</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9685151100">
+      <data key="d4">-6.196501</data>
+      <data key="d5">106.8798335</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="9685151103">
+      <data key="d4">-6.1968427</data>
+      <data key="d5">106.8798192</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9685399802">
+      <data key="d4">-6.1960811</data>
+      <data key="d5">106.8775272</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9687161270">
+      <data key="d4">-6.1930614</data>
+      <data key="d5">106.8785509</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9687161275">
+      <data key="d4">-6.1931378</data>
+      <data key="d5">106.879208</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="10741057666">
+      <data key="d4">-6.1954085</data>
+      <data key="d5">106.8807998</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="11249225451">
+      <data key="d4">-6.1929021</data>
+      <data key="d5">106.8800627</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="11249225454">
+      <data key="d4">-6.1928922</data>
+      <data key="d5">106.8801244</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="11329756324">
+      <data key="d4">-6.1928666</data>
+      <data key="d5">106.8777597</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="11466660716">
+      <data key="d4">-6.1950554</data>
+      <data key="d5">106.8766913</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="11524129544">
+      <data key="d4">-6.1955422</data>
+      <data key="d5">106.8772473</data>
+      <data key="d6">1</data>
+    </node>
+    <edge source="310327455" target="4884984708" id="0">
+      <data key="d7">756853850</data>
+      <data key="d8">residential</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Daksina Pati Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">20.852377808414584</data>
+    </edge>
+    <edge source="310327455" target="9027920354" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">192.81591919297256</data>
+      <data key="d15">LINESTRING (106.8766442 -6.1968884, 106.8769675 -6.1968901, 106.8774647 -6.1968927, 106.8776864 -6.1968939, 106.8783608 -6.1968975, 106.8783884 -6.1968976)</data>
+    </edge>
+    <edge source="324851913" target="9684739690" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">3.264818763109568</data>
+    </edge>
+    <edge source="324851913" target="5662570822" id="0">
+      <data key="d7">763455749</data>
+      <data key="d8">trunk_link</data>
+      <data key="d9">2</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">30.844580836267006</data>
+    </edge>
+    <edge source="1311842311" target="7226690317" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">19.692926980091787</data>
+    </edge>
+    <edge source="1311842311" target="7137185143" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">18.190365305254588</data>
+      <data key="d15">LINESTRING (106.8803214 -6.1930165, 106.8803117 -6.1930156, 106.8801947 -6.1930044, 106.8801576 -6.1930009)</data>
+    </edge>
+    <edge source="1311842311" target="8313064070" id="0">
+      <data key="d7">[1220583155, 454810044, 1220583150]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">103.36007544383871</data>
+      <data key="d15">LINESTRING (106.8803214 -6.1930165, 106.8803102 -6.1931152, 106.8802991 -6.1932329, 106.8802968 -6.1932378, 106.8802934 -6.1932408, 106.8802897 -6.193243, 106.8802849 -6.1932443, 106.8795914 -6.1931759)</data>
+    </edge>
+    <edge source="1311842312" target="8313064071" id="0">
+      <data key="d7">1364900567</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">21.43793702618843</data>
+    </edge>
+    <edge source="1311842312" target="4884984668" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">45.252462536028844</data>
+      <data key="d15">LINESTRING (106.8796964 -6.1937828, 106.8796892 -6.1938221, 106.8796525 -6.1941873)</data>
+    </edge>
+    <edge source="1311842312" target="1311842404" id="0">
+      <data key="d7">[558702019, 694210666, 1364900567, 496832728, 827373212]</data>
+      <data key="d8">residential</data>
+      <data key="d10">['Jalan Daksina Pati Timur III', 'Daksinapati Utara']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">215.02612079468432</data>
+      <data key="d9">1</data>
+      <data key="d12">5</data>
+      <data key="d15">LINESTRING (106.8796964 -6.1937828, 106.8801387 -6.193827, 106.8801556 -6.1938399, 106.880164 -6.1938664, 106.8801364 -6.1940725, 106.8801208 -6.1942078, 106.8800587 -6.1948485, 106.8800151 -6.1952684, 106.8800139 -6.1952878, 106.880012 -6.1953012)</data>
+    </edge>
+    <edge source="1311842316" target="8496544026" id="0">
+      <data key="d7">481723233</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">32.73620275159182</data>
+    </edge>
+    <edge source="1311842316" target="9605264256" id="0">
+      <data key="d7">1043696907</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">18.13635667419253</data>
+    </edge>
+    <edge source="1311842316" target="4513190969" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">26.778515886434175</data>
+      <data key="d15">LINESTRING (106.8767156 -6.1944488, 106.8767052 -6.1944831, 106.8766965 -6.1945078, 106.8766874 -6.1945464, 106.8766831 -6.1945911, 106.8766726 -6.1946848)</data>
+    </edge>
+    <edge source="1311842345" target="6498113937" id="0">
+      <data key="d7">756853498</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">8.734493763940222</data>
+    </edge>
+    <edge source="1311842345" target="7224656701" id="0">
+      <data key="d7">774082618</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">8.790920632718906</data>
+    </edge>
+    <edge source="1311842345" target="4513182387" id="0">
+      <data key="d7">116350913</data>
+      <data key="d17">permissive</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">69.70502292460137</data>
+      <data key="d15">LINESTRING (106.8789067 -6.195863, 106.8789349 -6.1957305, 106.8789386 -6.19571, 106.878966 -6.195562, 106.8789984 -6.1952435)</data>
+    </edge>
+    <edge source="1311842352" target="4758805494" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">10.261796144044274</data>
+    </edge>
+    <edge source="1311842352" target="7224358837" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">78.21692898542803</data>
+    </edge>
+    <edge source="1311842352" target="9028115630" id="0">
+      <data key="d7">692260229</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">25.498102456668406</data>
+      <data key="d15">LINESTRING (106.8790055 -6.1968834, 106.8789915 -6.1966955, 106.8789887 -6.1966547)</data>
+    </edge>
+    <edge source="1311842377" target="4513190964" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">38.59451613115829</data>
+    </edge>
+    <edge source="1311842377" target="4513190968" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">19.54265866310285</data>
+    </edge>
+    <edge source="1311842377" target="1311842400" id="0">
+      <data key="d7">1364900568</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">48.56416400262187</data>
+    </edge>
+    <edge source="1311842377" target="8481827344" id="0">
+      <data key="d7">1220583151</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">87.96983381844775</data>
+      <data key="d15">LINESTRING (106.8775012 -6.1935752, 106.8774861 -6.1935342, 106.8774489 -6.1935102, 106.8773298 -6.1934755, 106.8772993 -6.1934549, 106.8772772 -6.1934199, 106.8772812 -6.1930439, 106.877294 -6.1929832, 106.8773238 -6.1929265)</data>
+    </edge>
+    <edge source="1311842383" target="4513190959" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">91.7597077294497</data>
+    </edge>
+    <edge source="1311842383" target="4513182387" id="0">
+      <data key="d7">1053937001</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati TImur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">168.19282955201717</data>
+    </edge>
+    <edge source="1311842383" target="8313064071" id="0">
+      <data key="d7">1364900567</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">38.654496343440016</data>
+    </edge>
+    <edge source="1311842385" target="1315069404" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">30.216366478803376</data>
+    </edge>
+    <edge source="1311842385" target="1315069341" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">15.06477653672655</data>
+    </edge>
+    <edge source="1311842385" target="9684385596" id="0">
+      <data key="d7">1235249661</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">7.495656411292537</data>
+    </edge>
+    <edge source="1311842400" target="1311842377" id="0">
+      <data key="d7">1364900568</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">48.56416400262187</data>
+    </edge>
+    <edge source="1311842404" target="1315069346" id="0">
+      <data key="d7">377972839</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">51.088888430766815</data>
+    </edge>
+    <edge source="1311842404" target="4415579285" id="0">
+      <data key="d7">377972839</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">35.78637563848107</data>
+    </edge>
+    <edge source="1311842404" target="1311842312" id="0">
+      <data key="d7">[558702019, 694210666, 1364900567, 496832728, 827373212]</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">['Jalan Daksina Pati Timur III', 'Daksinapati Utara']</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">215.02612079468435</data>
+      <data key="d15">LINESTRING (106.880012 -6.1953012, 106.8800139 -6.1952878, 106.8800151 -6.1952684, 106.8800587 -6.1948485, 106.8801208 -6.1942078, 106.8801364 -6.1940725, 106.880164 -6.1938664, 106.8801556 -6.1938399, 106.8801387 -6.193827, 106.8796964 -6.1937828)</data>
+    </edge>
+    <edge source="1311842411" target="1315069361" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">41.7814117045802</data>
+    </edge>
+    <edge source="1311842411" target="1315069327" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">67.03646142902154</data>
+      <data key="d15">LINESTRING (106.8765955 -6.1958808, 106.8765597 -6.1959697, 106.8765101 -6.1960777, 106.8764269 -6.1961871, 106.8763802 -6.1962324, 106.8763659 -6.196245, 106.8763455 -6.1962594, 106.8762306 -6.1963446)</data>
+    </edge>
+    <edge source="1311842411" target="5464300013" id="0">
+      <data key="d7">[496832737, 1235279363]</data>
+      <data key="d8">['residential', 'footway']</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">93.6518680937667</data>
+      <data key="d15">LINESTRING (106.8765955 -6.1958808, 106.8772145 -6.1959367, 106.8772966 -6.1959367, 106.8773597 -6.1959304, 106.8773942 -6.1959248, 106.8774149 -6.1959207, 106.8774385 -6.1959161)</data>
+    </edge>
+    <edge source="1315069327" target="4884984708" id="0">
+      <data key="d7">756853850</data>
+      <data key="d8">residential</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Daksina Pati Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">54.9634089449079</data>
+    </edge>
+    <edge source="1315069327" target="1311842411" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">67.03646142902154</data>
+      <data key="d15">LINESTRING (106.8762306 -6.1963446, 106.8763455 -6.1962594, 106.8763659 -6.196245, 106.8763802 -6.1962324, 106.8764269 -6.1961871, 106.8765101 -6.1960777, 106.8765597 -6.1959697, 106.8765955 -6.1958808)</data>
+    </edge>
+    <edge source="1315069330" target="5492769436" id="0">
+      <data key="d7">116350908</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">19.712557732268753</data>
+    </edge>
+    <edge source="1315069330" target="4513182381" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">47.195732903996394</data>
+    </edge>
+    <edge source="1315069330" target="4262120783" id="0">
+      <data key="d7">1364900281</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">64.57118698427158</data>
+    </edge>
+    <edge source="1315069330" target="9685399802" id="0">
+      <data key="d7">1053937000</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">73.9562452509567</data>
+      <data key="d15">LINESTRING (106.8781094 -6.1959491, 106.8781121 -6.196018, 106.8781011 -6.1960393, 106.8780797 -6.1960432, 106.8775272 -6.1960811)</data>
+    </edge>
+    <edge source="1315069341" target="1311842385" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">15.06477653672655</data>
+    </edge>
+    <edge source="1315069341" target="7053502365" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">15.549352544743636</data>
+    </edge>
+    <edge source="1315069341" target="1315069381" id="0">
+      <data key="d7">496832731</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">False</data>
+      <data key="d14">47.021687812541536</data>
+    </edge>
+    <edge source="1315069346" target="4884984670" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">39.839942783374596</data>
+    </edge>
+    <edge source="1315069346" target="1315069375" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">39.421631115099416</data>
+    </edge>
+    <edge source="1315069346" target="1311842404" id="0">
+      <data key="d7">377972839</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">51.088888430766815</data>
+    </edge>
+    <edge source="1315069346" target="7030879670" id="0">
+      <data key="d7">[1236306796, 377972839]</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">171.81497727630426</data>
+      <data key="d15">LINESTRING (106.8795521 -6.1952559, 106.8791735 -6.1952114, 106.8791393 -6.1951964, 106.8791279 -6.1951778, 106.8791202 -6.1951384, 106.8791769 -6.1945691, 106.8792258 -6.1940765)</data>
+    </edge>
+    <edge source="1315069359" target="1315069360" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">33.853168981936385</data>
+    </edge>
+    <edge source="1315069359" target="1315069411" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">39.61884883908143</data>
+    </edge>
+    <edge source="1315069359" target="4415579285" id="0">
+      <data key="d7">496832730</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">44.12112149218828</data>
+    </edge>
+    <edge source="1315069360" target="1315069359" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">33.853168981936385</data>
+    </edge>
+    <edge source="1315069360" target="4884984671" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">46.85936565411884</data>
+    </edge>
+    <edge source="1315069360" target="10741057666" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">44.90436177611355</data>
+    </edge>
+    <edge source="1315069361" target="1311842411" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">41.7814117045802</data>
+    </edge>
+    <edge source="1315069361" target="1315069387" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">50.70327836273596</data>
+    </edge>
+    <edge source="1315069361" target="11524129544" id="0">
+      <data key="d7">1240363031</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat I</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">69.71776994493413</data>
+    </edge>
+    <edge source="1315069362" target="4884984666" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">29.037156592584342</data>
+    </edge>
+    <edge source="1315069362" target="9027920368" id="0">
+      <data key="d7">[1220583147, 894395469]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">20.993209366493865</data>
+      <data key="d15">LINESTRING (106.8814877 -6.1931373, 106.8814784 -6.1932234, 106.8814693 -6.1933252)</data>
+    </edge>
+    <edge source="1315069375" target="1315069346" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">39.421631115099416</data>
+    </edge>
+    <edge source="1315069375" target="1315069404" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">6.8386321776536665</data>
+    </edge>
+    <edge source="1315069375" target="6928918068" id="0">
+      <data key="d7">116711049</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">44.726761817188915</data>
+    </edge>
+    <edge source="1315069381" target="1315069411" id="0">
+      <data key="d7">116711062</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">True</data>
+      <data key="d14">42.8456546780623</data>
+    </edge>
+    <edge source="1315069381" target="1315069341" id="0">
+      <data key="d7">496832731</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">True</data>
+      <data key="d14">47.021687812541536</data>
+    </edge>
+    <edge source="1315069381" target="4884984671" id="0">
+      <data key="d7">496832731</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">False</data>
+      <data key="d14">53.4321187267546</data>
+      <data key="d15">LINESTRING (106.8799032 -6.1960972, 106.8803213 -6.196125, 106.8803856 -6.1961236)</data>
+    </edge>
+    <edge source="1315069387" target="1315069361" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">50.70327836273596</data>
+    </edge>
+    <edge source="1315069387" target="4513190969" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">40.78167591165521</data>
+    </edge>
+    <edge source="1315069387" target="11466660716" id="0">
+      <data key="d7">1235279362</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">5.191158676571307</data>
+    </edge>
+    <edge source="1315069404" target="1315069375" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">6.8386321776536665</data>
+    </edge>
+    <edge source="1315069404" target="1311842385" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">30.216366478803376</data>
+    </edge>
+    <edge source="1315069404" target="1315069411" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">48.24000718974407</data>
+      <data key="d15">LINESTRING (106.8795046 -6.1956692, 106.8795427 -6.1956731, 106.8799387 -6.1957135)</data>
+    </edge>
+    <edge source="1315069405" target="4513182381" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">17.609591447741185</data>
+    </edge>
+    <edge source="1315069405" target="4513182490" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">23.09405399975461</data>
+      <data key="d15">LINESTRING (106.8781845 -6.1953711, 106.8782397 -6.1952949, 106.8782864 -6.1952224, 106.8783025 -6.1951998)</data>
+    </edge>
+    <edge source="1315069405" target="7224656710" id="0">
+      <data key="d7">722398159</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">33.42183170853147</data>
+      <data key="d15">LINESTRING (106.8781845 -6.1953711, 106.8781345 -6.1953585, 106.878105 -6.1953434, 106.878056 -6.1952881, 106.8780403 -6.1952311, 106.8780376 -6.1951904, 106.8780389 -6.1951477)</data>
+    </edge>
+    <edge source="1315069411" target="1315069381" id="0">
+      <data key="d7">116711062</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">False</data>
+      <data key="d14">42.8456546780623</data>
+    </edge>
+    <edge source="1315069411" target="1315069359" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">39.61884883908143</data>
+    </edge>
+    <edge source="1315069411" target="1315069404" id="0">
+      <data key="d7">116711063</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur I</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">48.24000718974407</data>
+      <data key="d15">LINESTRING (106.8799387 -6.1957135, 106.8795427 -6.1956731, 106.8795046 -6.1956692)</data>
+    </edge>
+    <edge source="1315125459" target="9684739709" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">6.679591023564501</data>
+    </edge>
+    <edge source="1315125459" target="9027920357" id="0">
+      <data key="d7">975576348</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">21.257937781533645</data>
+      <data key="d15">LINESTRING (106.8814789 -6.1929305, 106.8814799 -6.1928825, 106.8814927 -6.1927399)</data>
+    </edge>
+    <edge source="1320321336" target="7137185157" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">35.14194990175574</data>
+    </edge>
+    <edge source="1320321336" target="9684739690" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">7.363043094284739</data>
+    </edge>
+    <edge source="1696170853" target="7082773759" id="0">
+      <data key="d7">760195760</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">9.96262684169707</data>
+    </edge>
+    <edge source="1696170853" target="9685151098" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">16.379656955508317</data>
+    </edge>
+    <edge source="1696170853" target="5374804755" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">104.25143226445294</data>
+      <data key="d15">LINESTRING (106.8772269 -6.1926992, 106.8769967 -6.1926755, 106.87629 -6.1925924)</data>
+    </edge>
+    <edge source="4262120783" target="9685399802" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">15.123989912442235</data>
+    </edge>
+    <edge source="4262120783" target="5464300013" id="0">
+      <data key="d7">1364900281</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">10.122708768424761</data>
+    </edge>
+    <edge source="4262120783" target="1315069330" id="0">
+      <data key="d7">1364900281</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">64.57118698427158</data>
+    </edge>
+    <edge source="4415579285" target="1311842404" id="0">
+      <data key="d7">377972839</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">35.78637563848107</data>
+    </edge>
+    <edge source="4415579285" target="1315069359" id="0">
+      <data key="d7">496832730</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">44.12112149218828</data>
+    </edge>
+    <edge source="4415579285" target="6331178745" id="0">
+      <data key="d7">[740044682, 496832727]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">['Jalan Daksina Pati Timur II', 'Jalan Daksina Pati Utara']</data>
+      <data key="d11">False</data>
+      <data key="d12">['4', '5']</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">32.390180983839294</data>
+      <data key="d15">LINESTRING (106.8803331 -6.1953421, 106.8803926 -6.1953528, 106.8805529 -6.1953731, 106.8806233 -6.1953818)</data>
+    </edge>
+    <edge source="4513182381" target="4513182382" id="0">
+      <data key="d7">454810038</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">13.572770581403514</data>
+    </edge>
+    <edge source="4513182381" target="1315069405" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">17.609591447741185</data>
+    </edge>
+    <edge source="4513182381" target="1315069330" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">47.195732903996394</data>
+    </edge>
+    <edge source="4513182382" target="4513182381" id="0">
+      <data key="d7">454810038</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">13.572770581403514</data>
+    </edge>
+    <edge source="4513182382" target="4513182388" id="0">
+      <data key="d7">[454810042, 454810038]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">53.032383795748586</data>
+      <data key="d15">LINESTRING (106.8782879 -6.1955327, 106.8784939 -6.1955542, 106.8787647 -6.1955853)</data>
+    </edge>
+    <edge source="4513182382" target="4513182490" id="0">
+      <data key="d7">[454810043, 454810039]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">37.05987897154964</data>
+      <data key="d15">LINESTRING (106.8782879 -6.1955327, 106.8782921 -6.1953582, 106.8783025 -6.1951998)</data>
+    </edge>
+    <edge source="4513182387" target="1311842383" id="0">
+      <data key="d7">1053937001</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati TImur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">168.19282955201717</data>
+    </edge>
+    <edge source="4513182387" target="1311842345" id="0">
+      <data key="d7">116350913</data>
+      <data key="d17">permissive</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">69.70502292460137</data>
+      <data key="d15">LINESTRING (106.8789984 -6.1952435, 106.878966 -6.195562, 106.8789386 -6.19571, 106.8789349 -6.1957305, 106.8789067 -6.195863)</data>
+    </edge>
+    <edge source="4513182387" target="4513182490" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">77.8224964963537</data>
+      <data key="d15">LINESTRING (106.8789984 -6.1952435, 106.8783849 -6.1951818, 106.8783286 -6.1951831, 106.8783025 -6.1951998)</data>
+    </edge>
+    <edge source="4513182388" target="4513182382" id="0">
+      <data key="d7">[454810042, 454810038]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">53.032383795748586</data>
+      <data key="d15">LINESTRING (106.8787647 -6.1955853, 106.8784939 -6.1955542, 106.8782879 -6.1955327)</data>
+    </edge>
+    <edge source="4513182490" target="9027793161" id="0">
+      <data key="d7">454810043</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">57.11045473605226</data>
+    </edge>
+    <edge source="4513182490" target="4513182387" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">77.8224964963537</data>
+      <data key="d15">LINESTRING (106.8783025 -6.1951998, 106.8783286 -6.1951831, 106.8783849 -6.1951818, 106.8789984 -6.1952435)</data>
+    </edge>
+    <edge source="4513182490" target="1315069405" id="0">
+      <data key="d7">454810041</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">23.094053999754607</data>
+      <data key="d15">LINESTRING (106.8783025 -6.1951998, 106.8782864 -6.1952224, 106.8782397 -6.1952949, 106.8781845 -6.1953711)</data>
+    </edge>
+    <edge source="4513182490" target="4513182382" id="0">
+      <data key="d7">[454810043, 454810039]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">37.05987897154964</data>
+      <data key="d15">LINESTRING (106.8783025 -6.1951998, 106.8782921 -6.1953582, 106.8782879 -6.1955327)</data>
+    </edge>
+    <edge source="4513190959" target="1311842383" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">91.7597077294497</data>
+    </edge>
+    <edge source="4513190959" target="4513190961" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">10.453450305898517</data>
+    </edge>
+    <edge source="4513190959" target="4513190960" id="0">
+      <data key="d7">454811645</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">20.727817146108237</data>
+    </edge>
+    <edge source="4513190960" target="4513190959" id="0">
+      <data key="d7">454811645</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">20.727817146108237</data>
+    </edge>
+    <edge source="4513190961" target="4513190959" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">10.453450305898517</data>
+    </edge>
+    <edge source="4513190961" target="4513190964" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">42.8871936005002</data>
+    </edge>
+    <edge source="4513190961" target="4513190963" id="0">
+      <data key="d7">454811646</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">48.960148702344014</data>
+      <data key="d15">LINESTRING (106.8782341 -6.1936529, 106.8782031 -6.1937152, 106.8781788 -6.1937342, 106.8781462 -6.1937384, 106.87808 -6.1937332, 106.8778383 -6.1937104)</data>
+    </edge>
+    <edge source="4513190963" target="4513190964" id="0">
+      <data key="d7">454811646</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">10.63994304127839</data>
+    </edge>
+    <edge source="4513190963" target="4513190961" id="0">
+      <data key="d7">454811646</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">48.96014870234402</data>
+      <data key="d15">LINESTRING (106.8778383 -6.1937104, 106.87808 -6.1937332, 106.8781462 -6.1937384, 106.8781788 -6.1937342, 106.8782031 -6.1937152, 106.8782341 -6.1936529)</data>
+    </edge>
+    <edge source="4513190963" target="4513190968" id="0">
+      <data key="d7">[454811649, 558702020]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">40.9803647936896</data>
+      <data key="d15">LINESTRING (106.8778383 -6.1937104, 106.8777569 -6.1937573, 106.8776908 -6.1937616, 106.8776299 -6.1937628, 106.877481 -6.1937498)</data>
+    </edge>
+    <edge source="4513190964" target="4513190961" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">42.8871936005002</data>
+    </edge>
+    <edge source="4513190964" target="1311842377" id="0">
+      <data key="d7">116350905</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">38.59451613115829</data>
+    </edge>
+    <edge source="4513190964" target="4513190963" id="0">
+      <data key="d7">454811646</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">10.63994304127839</data>
+    </edge>
+    <edge source="4513190968" target="1311842377" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">19.54265866310285</data>
+    </edge>
+    <edge source="4513190968" target="4746293173" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">82.14996831957552</data>
+    </edge>
+    <edge source="4513190968" target="4513190963" id="0">
+      <data key="d7">[454811649, 558702020]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">40.9803647936896</data>
+      <data key="d15">LINESTRING (106.877481 -6.1937498, 106.8776299 -6.1937628, 106.8776908 -6.1937616, 106.8777569 -6.1937573, 106.8778383 -6.1937104)</data>
+    </edge>
+    <edge source="4513190969" target="1315069387" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">False</data>
+      <data key="d14">40.78167591165521</data>
+    </edge>
+    <edge source="4513190969" target="7119265494" id="0">
+      <data key="d7">761979757</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat III</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">5.774112980983013</data>
+    </edge>
+    <edge source="4513190969" target="1311842316" id="0">
+      <data key="d7">116350902</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Lapangan Daksina Pati</data>
+      <data key="d11">False</data>
+      <data key="d12">4</data>
+      <data key="d13">True</data>
+      <data key="d14">26.77851588643417</data>
+      <data key="d15">LINESTRING (106.8766726 -6.1946848, 106.8766831 -6.1945911, 106.8766874 -6.1945464, 106.8766965 -6.1945078, 106.8767052 -6.1944831, 106.8767156 -6.1944488)</data>
+    </edge>
+    <edge source="4746293173" target="4513190968" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">82.14996831957552</data>
+    </edge>
+    <edge source="4746293173" target="6776173075" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">69.6536160530602</data>
+    </edge>
+    <edge source="4746293173" target="8496544026" id="0">
+      <data key="d7">481723233</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">43.359995478754705</data>
+      <data key="d15">LINESTRING (106.8774029 -6.1944845, 106.8773392 -6.1944798, 106.8770116 -6.1944576)</data>
+    </edge>
+    <edge source="4758805494" target="1311842352" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">10.261796144044274</data>
+    </edge>
+    <edge source="4758805494" target="9027920354" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">57.98089946523109</data>
+      <data key="d15">LINESTRING (106.8789127 -6.1968857, 106.878883 -6.1968867, 106.8785462 -6.1968977, 106.8783884 -6.1968976)</data>
+    </edge>
+    <edge source="4758805494" target="9028115631" id="0">
+      <data key="d7">692260228</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">25.503587898611773</data>
+      <data key="d15">LINESTRING (106.8789127 -6.1968857, 106.878902 -6.1966974, 106.8788998 -6.1966567)</data>
+    </edge>
+    <edge source="4884984239" target="9684739702" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">7.967101255726712</data>
+    </edge>
+    <edge source="4884984239" target="7137185150" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">37.515972215744036</data>
+    </edge>
+    <edge source="4884984244" target="9684739712" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">6.077630230836789</data>
+    </edge>
+    <edge source="4884984244" target="9684739699" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">48.024407470617284</data>
+    </edge>
+    <edge source="4884984308" target="7137185150" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">26.36105011082791</data>
+      <data key="d15">LINESTRING (106.8798944 -6.1927692, 106.8799788 -6.1927782, 106.8801315 -6.1927945)</data>
+    </edge>
+    <edge source="4884984308" target="4884984427" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">105.50057149717956</data>
+      <data key="d15">LINESTRING (106.8798944 -6.1927692, 106.8793775 -6.1927186, 106.878945 -6.1926727)</data>
+    </edge>
+    <edge source="4884984427" target="4884984308" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">105.50057149717956</data>
+      <data key="d15">LINESTRING (106.878945 -6.1926727, 106.8793775 -6.1927186, 106.8798944 -6.1927692)</data>
+    </edge>
+    <edge source="4884984427" target="4884984436" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">93.41211002017027</data>
+      <data key="d15">LINESTRING (106.878945 -6.1926727, 106.8783465 -6.1926125, 106.8781039 -6.1925923)</data>
+    </edge>
+    <edge source="4884984436" target="7137185157" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">41.42702524250726</data>
+    </edge>
+    <edge source="4884984436" target="4884984427" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">93.41211002017027</data>
+      <data key="d15">LINESTRING (106.8781039 -6.1925923, 106.8783465 -6.1926125, 106.878945 -6.1926727)</data>
+    </edge>
+    <edge source="4884984662" target="4884984666" id="0">
+      <data key="d7">[496832725, 939189278]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">Jalan Daksina Pati Timur Laut</data>
+      <data key="d11">False</data>
+      <data key="d12">3</data>
+      <data key="d13">False</data>
+      <data key="d14">88.38597838543794</data>
+      <data key="d15">LINESTRING (106.8811707 -6.1939008, 106.8812154 -6.1932375, 106.8812184 -6.1932022, 106.8812267 -6.1931079)</data>
+    </edge>
+    <edge source="4884984662" target="6331178745" id="0">
+      <data key="d7">[496832725, 496832727]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">['Jalan Daksina Pati Utara', 'Jalan Daksina Pati Timur Laut']</data>
+      <data key="d11">False</data>
+      <data key="d12">['4', '3']</data>
+      <data key="d13">True</data>
+      <data key="d14">225.52145554150923</data>
+      <data key="d15">LINESTRING (106.8811707 -6.1939008, 106.8811628 -6.1939147, 106.8811543 -6.1939212, 106.8807352 -6.1938858, 106.8807037 -6.1938872, 106.8806769 -6.1938965, 106.8806621 -6.1939245, 106.8806608 -6.1939645, 106.8806709 -6.1940898, 106.8806896 -6.1941938, 106.8807279 -6.1943271, 106.8807486 -6.1944118, 106.880758 -6.1944898, 106.880752 -6.1946431, 106.880695 -6.1951291, 106.8806642 -6.1953398, 106.8806494 -6.1953671, 106.8806233 -6.1953818)</data>
+    </edge>
+    <edge source="4884984666" target="9685151096" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">15.29636147578734</data>
+    </edge>
+    <edge source="4884984666" target="1315069362" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">29.037156592584342</data>
+    </edge>
+    <edge source="4884984666" target="4884984662" id="0">
+      <data key="d7">[496832725, 939189278]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">Jalan Daksina Pati Timur Laut</data>
+      <data key="d11">False</data>
+      <data key="d12">3</data>
+      <data key="d13">True</data>
+      <data key="d14">88.38597838543794</data>
+      <data key="d15">LINESTRING (106.8812267 -6.1931079, 106.8812184 -6.1932022, 106.8812154 -6.1932375, 106.8811707 -6.1939008)</data>
+    </edge>
+    <edge source="4884984668" target="4884984670" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">79.50111213353013</data>
+    </edge>
+    <edge source="4884984668" target="6929580564" id="0">
+      <data key="d7">740113390</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">32.00678537314657</data>
+    </edge>
+    <edge source="4884984668" target="1311842312" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">45.252462536028844</data>
+      <data key="d15">LINESTRING (106.8796525 -6.1941873, 106.8796892 -6.1938221, 106.8796964 -6.1937828)</data>
+    </edge>
+    <edge source="4884984670" target="4884984668" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">79.50111213353013</data>
+    </edge>
+    <edge source="4884984670" target="1315069346" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">39.839942783374596</data>
+    </edge>
+    <edge source="4884984670" target="6517605410" id="0">
+      <data key="d7">496832729</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur III</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">44.152132772154005</data>
+    </edge>
+    <edge source="4884984671" target="1315069360" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">46.85936565411884</data>
+    </edge>
+    <edge source="4884984671" target="1315069381" id="0">
+      <data key="d7">496832731</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Tenggara</data>
+      <data key="d11">False</data>
+      <data key="d12">3.5</data>
+      <data key="d13">True</data>
+      <data key="d14">53.4321187267546</data>
+      <data key="d15">LINESTRING (106.8803856 -6.1961236, 106.8803213 -6.196125, 106.8799032 -6.1960972)</data>
+    </edge>
+    <edge source="4884984671" target="5492769431" id="0">
+      <data key="d7">837204035</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">87.08432013961749</data>
+      <data key="d15">LINESTRING (106.8803856 -6.1961236, 106.8802384 -6.1962831, 106.8801928 -6.1963577, 106.8801793 -6.196443, 106.8801723 -6.196836)</data>
+    </edge>
+    <edge source="4884984707" target="4884984708" id="0">
+      <data key="d7">1235279364</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Raya Flat UI</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">8.670249939811965</data>
+    </edge>
+    <edge source="4884984708" target="310327455" id="0">
+      <data key="d7">756853850</data>
+      <data key="d8">residential</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Daksina Pati Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">20.852377808414584</data>
+    </edge>
+    <edge source="4884984708" target="1315069327" id="0">
+      <data key="d7">756853850</data>
+      <data key="d8">residential</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Daksina Pati Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">54.9634089449079</data>
+    </edge>
+    <edge source="4884984708" target="4884984707" id="0">
+      <data key="d7">1235279364</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Raya Flat UI</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">8.670249939811965</data>
+    </edge>
+    <edge source="4905288509" target="6776173075" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">48.8628070281143</data>
+    </edge>
+    <edge source="4905288509" target="5464300013" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">45.8094196046603</data>
+      <data key="d15">LINESTRING (106.8772967 -6.1955451, 106.8772899 -6.1956191, 106.8773027 -6.1956924, 106.8773516 -6.1957961, 106.8773841 -6.1958547, 106.8774385 -6.1959161)</data>
+    </edge>
+    <edge source="4905288509" target="9682636862" id="0">
+      <data key="d7">1053617533</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">27.953822230594408</data>
+      <data key="d15">LINESTRING (106.8772967 -6.1955451, 106.8774305 -6.195559, 106.8774576 -6.1955709, 106.8774718 -6.1955968, 106.8774722 -6.1956555)</data>
+    </edge>
+    <edge source="5374804755" target="9028249477" id="0">
+      <data key="d7">557278264</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">32.77385241078359</data>
+    </edge>
+    <edge source="5374804755" target="1696170853" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">104.25143226445294</data>
+      <data key="d15">LINESTRING (106.87629 -6.1925924, 106.8769967 -6.1926755, 106.8772269 -6.1926992)</data>
+    </edge>
+    <edge source="5464300013" target="4262120783" id="0">
+      <data key="d7">1364900281</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">10.122708768424761</data>
+    </edge>
+    <edge source="5464300013" target="4905288509" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">45.80941960466029</data>
+      <data key="d15">LINESTRING (106.8774385 -6.1959161, 106.8773841 -6.1958547, 106.8773516 -6.1957961, 106.8773027 -6.1956924, 106.8772899 -6.1956191, 106.8772967 -6.1955451)</data>
+    </edge>
+    <edge source="5464300013" target="1311842411" id="0">
+      <data key="d7">[496832737, 1235279363]</data>
+      <data key="d8">['residential', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">93.6518680937667</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat</data>
+      <data key="d12">5</data>
+      <data key="d15">LINESTRING (106.8774385 -6.1959161, 106.8774149 -6.1959207, 106.8773942 -6.1959248, 106.8773597 -6.1959304, 106.8772966 -6.1959367, 106.8772145 -6.1959367, 106.8765955 -6.1958808)</data>
+    </edge>
+    <edge source="5492769431" target="6618132191" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">9.186992581338908</data>
+    </edge>
+    <edge source="5492769431" target="6618132189" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">13.45837398693506</data>
+    </edge>
+    <edge source="5492769431" target="4884984671" id="0">
+      <data key="d7">837204035</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">87.08432013961749</data>
+      <data key="d15">LINESTRING (106.8801723 -6.196836, 106.8801793 -6.196443, 106.8801928 -6.1963577, 106.8802384 -6.1962831, 106.8803856 -6.1961236)</data>
+    </edge>
+    <edge source="5492769434" target="10741057666" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">21.60153365460469</data>
+    </edge>
+    <edge source="5492769436" target="1315069330" id="0">
+      <data key="d7">116350908</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">19.712557732268753</data>
+    </edge>
+    <edge source="5492769436" target="9027793150" id="0">
+      <data key="d7">975560251</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">86.83846669579471</data>
+    </edge>
+    <edge source="5492769436" target="7224656701" id="0">
+      <data key="d7">116350908</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">63.41705416978748</data>
+      <data key="d15">LINESTRING (106.8782877 -6.1959464, 106.8787571 -6.1959344, 106.878861 -6.1959277)</data>
+    </edge>
+    <edge source="5655325515" target="6618132192" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">48.90236848854332</data>
+    </edge>
+    <edge source="5662570822" target="324851913" id="0">
+      <data key="d7">763455749</data>
+      <data key="d8">trunk_link</data>
+      <data key="d9">2</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">30.844580836267006</data>
+    </edge>
+    <edge source="6331051811" target="9028249477" id="0">
+      <data key="d7">557278264</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">22.811757261030404</data>
+    </edge>
+    <edge source="6331178745" target="10741057666" id="0">
+      <data key="d7">1154975859</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">19.735896951117322</data>
+    </edge>
+    <edge source="6331178745" target="4884984662" id="0">
+      <data key="d7">[496832725, 496832727]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">['Jalan Daksina Pati Utara', 'Jalan Daksina Pati Timur Laut']</data>
+      <data key="d11">False</data>
+      <data key="d12">['4', '3']</data>
+      <data key="d13">False</data>
+      <data key="d14">225.52145554150914</data>
+      <data key="d15">LINESTRING (106.8806233 -6.1953818, 106.8806494 -6.1953671, 106.8806642 -6.1953398, 106.880695 -6.1951291, 106.880752 -6.1946431, 106.880758 -6.1944898, 106.8807486 -6.1944118, 106.8807279 -6.1943271, 106.8806896 -6.1941938, 106.8806709 -6.1940898, 106.8806608 -6.1939645, 106.8806621 -6.1939245, 106.8806769 -6.1938965, 106.8807037 -6.1938872, 106.8807352 -6.1938858, 106.8811543 -6.1939212, 106.8811628 -6.1939147, 106.8811707 -6.1939008)</data>
+    </edge>
+    <edge source="6331178745" target="4415579285" id="0">
+      <data key="d7">[740044682, 496832727]</data>
+      <data key="d8">living_street</data>
+      <data key="d10">['Jalan Daksina Pati Timur II', 'Jalan Daksina Pati Utara']</data>
+      <data key="d11">False</data>
+      <data key="d12">['4', '5']</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">32.390180983839294</data>
+      <data key="d15">LINESTRING (106.8806233 -6.1953818, 106.8805529 -6.1953731, 106.8803926 -6.1953528, 106.8803331 -6.1953421)</data>
+    </edge>
+    <edge source="6498113937" target="9028115630" id="0">
+      <data key="d7">692260229</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">80.82046362289366</data>
+    </edge>
+    <edge source="6498113937" target="1311842345" id="0">
+      <data key="d7">756853498</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">8.734493763940222</data>
+    </edge>
+    <edge source="6498113937" target="9684385597" id="0">
+      <data key="d7">774082617</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">10.163906044678175</data>
+    </edge>
+    <edge source="6498113937" target="7224656701" id="0">
+      <data key="d7">1364900298</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">9.806298393904608</data>
+    </edge>
+    <edge source="6517605410" target="4884984670" id="0">
+      <data key="d7">496832729</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur III</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">44.152132772154005</data>
+    </edge>
+    <edge source="6618132189" target="5492769431" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">13.45837398693506</data>
+    </edge>
+    <edge source="6618132189" target="6618132192" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">21.567080404838755</data>
+    </edge>
+    <edge source="6618132189" target="6618132196" id="0">
+      <data key="d7">704723046</data>
+      <data key="d8">tertiary</data>
+      <data key="d10">Jalan Rawamangun Muka Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">25.688406398873102</data>
+    </edge>
+    <edge source="6618132190" target="6618132196" id="0">
+      <data key="d7">704723046</data>
+      <data key="d8">tertiary</data>
+      <data key="d10">Jalan Rawamangun Muka Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">8.888157620066925</data>
+    </edge>
+    <edge source="6618132190" target="6618132191" id="0">
+      <data key="d7">723055044</data>
+      <data key="d8">tertiary_link</data>
+      <data key="d9">1</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">48.47178959644476</data>
+      <data key="d15">LINESTRING (106.8804274 -6.1971137, 106.8803202 -6.1970317, 106.880182 -6.1969057, 106.8800892 -6.196837)</data>
+    </edge>
+    <edge source="6618132191" target="9685151103" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">29.85397650297538</data>
+    </edge>
+    <edge source="6618132191" target="5492769431" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">9.186992581338908</data>
+    </edge>
+    <edge source="6618132191" target="6618132190" id="0">
+      <data key="d7">723055044</data>
+      <data key="d8">tertiary_link</data>
+      <data key="d9">1</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">48.471789596444765</data>
+      <data key="d15">LINESTRING (106.8800892 -6.196837, 106.880182 -6.1969057, 106.8803202 -6.1970317, 106.8804274 -6.1971137)</data>
+    </edge>
+    <edge source="6618132192" target="6618132189" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">21.567080404838755</data>
+    </edge>
+    <edge source="6618132192" target="5655325515" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">48.90236848854332</data>
+    </edge>
+    <edge source="6618132192" target="6618132196" id="0">
+      <data key="d7">704723047</data>
+      <data key="d8">tertiary_link</data>
+      <data key="d9">1</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">27.618969230857147</data>
+      <data key="d15">LINESTRING (106.8804888 -6.196822, 106.8804519 -6.1968654, 106.8804311 -6.1968924, 106.8804167 -6.196928, 106.8804087 -6.1969634, 106.8803884 -6.1970438)</data>
+    </edge>
+    <edge source="6618132196" target="6618132190" id="0">
+      <data key="d7">704723046</data>
+      <data key="d8">tertiary</data>
+      <data key="d10">Jalan Rawamangun Muka Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">8.888157620066925</data>
+    </edge>
+    <edge source="6618132196" target="6618132189" id="0">
+      <data key="d7">704723046</data>
+      <data key="d8">tertiary</data>
+      <data key="d10">Jalan Rawamangun Muka Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">25.688406398873102</data>
+    </edge>
+    <edge source="6618132196" target="6618132192" id="0">
+      <data key="d7">704723047</data>
+      <data key="d8">tertiary_link</data>
+      <data key="d9">1</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">27.61896923085715</data>
+      <data key="d15">LINESTRING (106.8803884 -6.1970438, 106.8804087 -6.1969634, 106.8804167 -6.196928, 106.8804311 -6.1968924, 106.8804519 -6.1968654, 106.8804888 -6.196822)</data>
+    </edge>
+    <edge source="6776173075" target="4746293173" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">69.6536160530602</data>
+    </edge>
+    <edge source="6776173075" target="4905288509" id="0">
+      <data key="d7">454811651</data>
+      <data key="d8">service</data>
+      <data key="d10">Daksinapati Barat</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">48.8628070281143</data>
+    </edge>
+    <edge source="6776173075" target="7224656710" id="0">
+      <data key="d7">722398159</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">77.36561508901002</data>
+      <data key="d15">LINESTRING (106.8773402 -6.1951078, 106.8774222 -6.1951125, 106.8780389 -6.1951477)</data>
+    </edge>
+    <edge source="6928918068" target="1315069375" id="0">
+      <data key="d7">116711049</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">44.726761817188915</data>
+    </edge>
+    <edge source="6929580564" target="4884984668" id="0">
+      <data key="d7">740113390</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">32.00678537314657</data>
+    </edge>
+    <edge source="7030879670" target="1315069346" id="0">
+      <data key="d7">[1236306796, 377972839]</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">171.81497727630426</data>
+      <data key="d15">LINESTRING (106.8792258 -6.1940765, 106.8791769 -6.1945691, 106.8791202 -6.1951384, 106.8791279 -6.1951778, 106.8791393 -6.1951964, 106.8791735 -6.1952114, 106.8795521 -6.1952559)</data>
+    </edge>
+    <edge source="7053502365" target="1315069341" id="0">
+      <data key="d7">116350903</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Timur A</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">15.549352544743636</data>
+    </edge>
+    <edge source="7082773759" target="1696170853" id="0">
+      <data key="d7">760195760</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">9.96262684169707</data>
+    </edge>
+    <edge source="7119265494" target="4513190969" id="0">
+      <data key="d7">761979757</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat III</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">5.774112980983013</data>
+    </edge>
+    <edge source="7137185143" target="9028008487" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">57.99972926062005</data>
+    </edge>
+    <edge source="7137185143" target="1311842311" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">18.19036530525459</data>
+      <data key="d15">LINESTRING (106.8801576 -6.1930009, 106.8801947 -6.1930044, 106.8803117 -6.1930156, 106.8803214 -6.1930165)</data>
+    </edge>
+    <edge source="7137185143" target="7137185146" id="0">
+      <data key="d7">[1221593744, 763957832]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">56.99933363749361</data>
+      <data key="d15">LINESTRING (106.8801576 -6.1930009, 106.8801525 -6.1930712, 106.8800807 -6.1930659, 106.8797281 -6.1930399, 106.879724 -6.1930585)</data>
+    </edge>
+    <edge source="7137185146" target="9028249471" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">12.123155171896261</data>
+    </edge>
+    <edge source="7137185146" target="11249225451" id="0">
+      <data key="d7">[763957832, 763957833]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">56.398811197570495</data>
+      <data key="d18">yes</data>
+      <data key="d15">LINESTRING (106.879724 -6.1930585, 106.8800445 -6.1930884, 106.8800627 -6.1929021)</data>
+    </edge>
+    <edge source="7137185146" target="7137185143" id="0">
+      <data key="d7">[763957832, 1221593744]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">56.999333637493606</data>
+      <data key="d15">LINESTRING (106.879724 -6.1930585, 106.8797281 -6.1930399, 106.8800807 -6.1930659, 106.8801525 -6.1930712, 106.8801576 -6.1930009)</data>
+    </edge>
+    <edge source="7137185150" target="4884984239" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">37.515972215744036</data>
+    </edge>
+    <edge source="7137185150" target="4884984308" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">26.36105011082791</data>
+      <data key="d15">LINESTRING (106.8801315 -6.1927945, 106.8799788 -6.1927782, 106.8798944 -6.1927692)</data>
+    </edge>
+    <edge source="7137185150" target="11249225451" id="0">
+      <data key="d7">[763957833, 1221602953, 763957834]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">46.46578298062969</data>
+      <data key="d18">yes</data>
+      <data key="d15">LINESTRING (106.8801315 -6.1927945, 106.8801361 -6.1927538, 106.8801074 -6.1927506, 106.8800324 -6.1927421, 106.8800366 -6.1927059, 106.8800813 -6.192711, 106.8800627 -6.1929021)</data>
+    </edge>
+    <edge source="7137185154" target="9685151098" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">44.421312308376294</data>
+    </edge>
+    <edge source="7137185154" target="8481827349" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">21.19683925569128</data>
+    </edge>
+    <edge source="7137185154" target="11329756324" id="0">
+      <data key="d7">1221593742</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">12.062858440707156</data>
+    </edge>
+    <edge source="7137185157" target="4884984436" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">41.42702524250726</data>
+    </edge>
+    <edge source="7137185157" target="1320321336" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">35.14194990175574</data>
+    </edge>
+    <edge source="7137185157" target="11329756324" id="0">
+      <data key="d7">[763957835, 763957837, 1221593742, 1221593741, 1113399582]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">87.17761791743095</data>
+      <data key="d18">yes</data>
+      <data key="d15">LINESTRING (106.8777312 -6.1925534, 106.8777381 -6.1924878, 106.877754 -6.1924893, 106.8778472 -6.1924981, 106.8778454 -6.1925166, 106.8777523 -6.1925079, 106.8777419 -6.1926169, 106.8777212 -6.192835, 106.8776702 -6.1928302, 106.8776677 -6.192856, 106.8777378 -6.1928626, 106.8777597 -6.1928666)</data>
+    </edge>
+    <edge source="7140296514" target="7224358837" id="0">
+      <data key="d7">939135833</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">7.2036294733234465</data>
+    </edge>
+    <edge source="7224358837" target="1311842352" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">78.21692898542803</data>
+    </edge>
+    <edge source="7224358837" target="9685151103" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">11.853222078261728</data>
+    </edge>
+    <edge source="7224358837" target="7140296514" id="0">
+      <data key="d7">939135833</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">7.2036294733234465</data>
+    </edge>
+    <edge source="7224656701" target="9028115631" id="0">
+      <data key="d7">692260228</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">81.17461226942899</data>
+    </edge>
+    <edge source="7224656701" target="1311842345" id="0">
+      <data key="d7">774082618</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">8.790920632718906</data>
+    </edge>
+    <edge source="7224656701" target="6498113937" id="0">
+      <data key="d7">1364900298</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">9.806298393904608</data>
+    </edge>
+    <edge source="7224656701" target="5492769436" id="0">
+      <data key="d7">116350908</data>
+      <data key="d8">service</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">63.41705416978748</data>
+      <data key="d15">LINESTRING (106.878861 -6.1959277, 106.8787571 -6.1959344, 106.8782877 -6.1959464)</data>
+    </edge>
+    <edge source="7224656710" target="8784515308" id="0">
+      <data key="d7">948935492</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">56.820066139074456</data>
+    </edge>
+    <edge source="7224656710" target="6776173075" id="0">
+      <data key="d7">722398159</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">77.36561508901002</data>
+      <data key="d15">LINESTRING (106.8780389 -6.1951477, 106.8774222 -6.1951125, 106.8773402 -6.1951078)</data>
+    </edge>
+    <edge source="7224656710" target="1315069405" id="0">
+      <data key="d7">722398159</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">33.42183170853147</data>
+      <data key="d15">LINESTRING (106.8780389 -6.1951477, 106.8780376 -6.1951904, 106.8780403 -6.1952311, 106.878056 -6.1952881, 106.878105 -6.1953434, 106.8781345 -6.1953585, 106.8781845 -6.1953711)</data>
+    </edge>
+    <edge source="7226690313" target="7226690317" id="0">
+      <data key="d7">[774537272, 1220583149]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">87.47809996856</data>
+      <data key="d15">LINESTRING (106.8810764 -6.1933144, 106.8805547 -6.1932612, 106.8805249 -6.1932533, 106.8805008 -6.1932355, 106.8804883 -6.1932083, 106.8804916 -6.1931354, 106.8804987 -6.1930337)</data>
+    </edge>
+    <edge source="7226690313" target="9685151096" id="0">
+      <data key="d7">[1053899315, 1220583148]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">24.61553872411603</data>
+      <data key="d15">LINESTRING (106.8810764 -6.1933144, 106.881084 -6.1932025, 106.8810891 -6.1930934)</data>
+    </edge>
+    <edge source="7226690313" target="9346226527" id="0">
+      <data key="d7">1053945183</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">8.607035125058973</data>
+      <data key="d15">LINESTRING (106.8810764 -6.1933144, 106.8811076 -6.1933262, 106.8811294 -6.1933484, 106.8811342 -6.1933607)</data>
+    </edge>
+    <edge source="7226690317" target="1311842311" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">19.692926980091787</data>
+    </edge>
+    <edge source="7226690317" target="9685151096" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">65.60317791479552</data>
+    </edge>
+    <edge source="7226690317" target="7226690313" id="0">
+      <data key="d7">[774537272, 1220583149]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">87.47809996856</data>
+      <data key="d15">LINESTRING (106.8804987 -6.1930337, 106.8804916 -6.1931354, 106.8804883 -6.1932083, 106.8805008 -6.1932355, 106.8805249 -6.1932533, 106.8805547 -6.1932612, 106.8810764 -6.1933144)</data>
+    </edge>
+    <edge source="8313064070" target="9687161275" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">42.59459756850571</data>
+    </edge>
+    <edge source="8313064070" target="8313064071" id="0">
+      <data key="d7">894396215</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">66.48127987254453</data>
+    </edge>
+    <edge source="8313064070" target="9028249471" id="0">
+      <data key="d7">975585381</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">14.278185620487173</data>
+    </edge>
+    <edge source="8313064070" target="1311842311" id="0">
+      <data key="d7">[1220583155, 454810044, 1220583150]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">103.36007544383871</data>
+      <data key="d15">LINESTRING (106.8795914 -6.1931759, 106.8802849 -6.1932443, 106.8802897 -6.193243, 106.8802934 -6.1932408, 106.8802968 -6.1932378, 106.8802991 -6.1932329, 106.8803102 -6.1931152, 106.8803214 -6.1930165)</data>
+    </edge>
+    <edge source="8313064071" target="8313064070" id="0">
+      <data key="d7">894396215</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">66.48127987254453</data>
+    </edge>
+    <edge source="8313064071" target="1311842312" id="0">
+      <data key="d7">1364900567</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">21.43793702618843</data>
+    </edge>
+    <edge source="8313064071" target="1311842383" id="0">
+      <data key="d7">1364900567</data>
+      <data key="d8">residential</data>
+      <data key="d10">Daksinapati Utara</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">38.654496343440016</data>
+    </edge>
+    <edge source="8481827344" target="9028008489" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">68.17906826594322</data>
+      <data key="d15">LINESTRING (106.8773238 -6.1929265, 106.8774019 -6.1929279, 106.8779379 -6.1929808)</data>
+    </edge>
+    <edge source="8481827344" target="9685151098" id="0">
+      <data key="d7">[1220583153, 1053899316]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">24.259665251407363</data>
+      <data key="d15">LINESTRING (106.8773238 -6.1929265, 106.8773461 -6.1928385, 106.8773743 -6.1927142)</data>
+    </edge>
+    <edge source="8481827344" target="1311842377" id="0">
+      <data key="d7">1220583151</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">87.96983381844774</data>
+      <data key="d15">LINESTRING (106.8773238 -6.1929265, 106.877294 -6.1929832, 106.8772812 -6.1930439, 106.8772772 -6.1934199, 106.8772993 -6.1934549, 106.8773298 -6.1934755, 106.8774489 -6.1935102, 106.8774861 -6.1935342, 106.8775012 -6.1935752)</data>
+    </edge>
+    <edge source="8481827349" target="7137185154" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">21.19683925569128</data>
+    </edge>
+    <edge source="8481827349" target="9028008487" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">185.72071602874678</data>
+      <data key="d15">LINESTRING (106.8779641 -6.1927807, 106.8787468 -6.1928534, 106.878819 -6.1928608, 106.879636 -6.1929446)</data>
+    </edge>
+    <edge source="8481827349" target="8506578064" id="0">
+      <data key="d7">[1220583152, 1220583154]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">12.301534576775826</data>
+      <data key="d15">LINESTRING (106.8779641 -6.1927807, 106.8779528 -6.192867, 106.8779497 -6.1928904)</data>
+    </edge>
+    <edge source="8496544020" target="8496544024" id="0">
+      <data key="d7">914649668</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">25.40749892724714</data>
+      <data key="d15">LINESTRING (106.8768708 -6.1939832, 106.8769084 -6.1939965, 106.8769446 -6.1940285, 106.8769674 -6.1940885, 106.8769895 -6.1941618)</data>
+    </edge>
+    <edge source="8496544024" target="9028249470" id="0">
+      <data key="d7">975611068</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">27.273449656712884</data>
+    </edge>
+    <edge source="8496544024" target="8496544020" id="0">
+      <data key="d7">914649668</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">25.40749892724714</data>
+      <data key="d15">LINESTRING (106.8769895 -6.1941618, 106.8769674 -6.1940885, 106.8769446 -6.1940285, 106.8769084 -6.1939965, 106.8768708 -6.1939832)</data>
+    </edge>
+    <edge source="8496544024" target="8496544026" id="0">
+      <data key="d7">914649668</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">32.999787633785736</data>
+      <data key="d15">LINESTRING (106.8769895 -6.1941618, 106.8770036 -6.1942858, 106.8770116 -6.1944576)</data>
+    </edge>
+    <edge source="8496544026" target="1311842316" id="0">
+      <data key="d7">481723233</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">True</data>
+      <data key="d14">32.73620275159182</data>
+    </edge>
+    <edge source="8496544026" target="4746293173" id="0">
+      <data key="d7">481723233</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">43.359995478754705</data>
+      <data key="d15">LINESTRING (106.8770116 -6.1944576, 106.8773392 -6.1944798, 106.8774029 -6.1944845)</data>
+    </edge>
+    <edge source="8496544026" target="8496544024" id="0">
+      <data key="d7">914649668</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">32.999787633785736</data>
+      <data key="d15">LINESTRING (106.8770116 -6.1944576, 106.8770036 -6.1942858, 106.8769895 -6.1941618)</data>
+    </edge>
+    <edge source="8506578064" target="9028249471" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">184.90869134540134</data>
+    </edge>
+    <edge source="8506578064" target="11329756324" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">21.169843708391337</data>
+    </edge>
+    <edge source="8506578064" target="9028008489" id="0">
+      <data key="d7">1220583152</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">10.136320615302086</data>
+    </edge>
+    <edge source="8506578064" target="8481827349" id="0">
+      <data key="d7">[1220583152, 1220583154]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">12.301534576775826</data>
+      <data key="d15">LINESTRING (106.8779497 -6.1928904, 106.8779528 -6.192867, 106.8779641 -6.1927807)</data>
+    </edge>
+    <edge source="8784515308" target="7224656710" id="0">
+      <data key="d7">948935492</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">56.820066139074456</data>
+    </edge>
+    <edge source="9027793150" target="5492769436" id="0">
+      <data key="d7">975560251</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">86.83846669579471</data>
+    </edge>
+    <edge source="9027793150" target="9027920353" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">9.12113984150692</data>
+    </edge>
+    <edge source="9027793150" target="9685399802" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">149.6871441817808</data>
+      <data key="d15">LINESTRING (106.8783034 -6.1967272, 106.8776869 -6.196727, 106.8775997 -6.1967017, 106.8775501 -6.196653, 106.877534 -6.196579, 106.8775272 -6.1960811)</data>
+    </edge>
+    <edge source="9027793161" target="4513182490" id="0">
+      <data key="d7">454810043</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">57.11045473605226</data>
+    </edge>
+    <edge source="9027920353" target="9027920355" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">42.68025995174509</data>
+    </edge>
+    <edge source="9027920353" target="9027793150" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">9.12113984150692</data>
+    </edge>
+    <edge source="9027920353" target="9027920354" id="0">
+      <data key="d7">975576346</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">19.09537396393736</data>
+      <data key="d15">LINESTRING (106.8783859 -6.1967259, 106.8783867 -6.1968424, 106.8783884 -6.1968976)</data>
+    </edge>
+    <edge source="9027920354" target="310327455" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">192.8159191929726</data>
+      <data key="d15">LINESTRING (106.8783884 -6.1968976, 106.8783608 -6.1968975, 106.8776864 -6.1968939, 106.8774647 -6.1968927, 106.8769675 -6.1968901, 106.8766442 -6.1968884)</data>
+    </edge>
+    <edge source="9027920354" target="4758805494" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">57.98089946523109</data>
+      <data key="d15">LINESTRING (106.8783884 -6.1968976, 106.8785462 -6.1968977, 106.878883 -6.1968867, 106.8789127 -6.1968857)</data>
+    </edge>
+    <edge source="9027920354" target="9027920353" id="0">
+      <data key="d7">975576346</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">19.09537396393736</data>
+      <data key="d15">LINESTRING (106.8783884 -6.1968976, 106.8783867 -6.1968424, 106.8783859 -6.1967259)</data>
+    </edge>
+    <edge source="9027920355" target="9027920353" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">42.68025995174509</data>
+    </edge>
+    <edge source="9027920357" target="9027920364" id="0">
+      <data key="d7">975576348</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">31.061705094900045</data>
+    </edge>
+    <edge source="9027920357" target="1315125459" id="0">
+      <data key="d7">975576348</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">21.257937781533645</data>
+      <data key="d15">LINESTRING (106.8814927 -6.1927399, 106.8814799 -6.1928825, 106.8814789 -6.1929305)</data>
+    </edge>
+    <edge source="9027920364" target="9027920357" id="0">
+      <data key="d7">975576348</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">31.061705094900045</data>
+    </edge>
+    <edge source="9027920368" target="1315069362" id="0">
+      <data key="d7">[1220583147, 894395469]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">20.993209366493865</data>
+      <data key="d15">LINESTRING (106.8814693 -6.1933252, 106.8814784 -6.1932234, 106.8814877 -6.1931373)</data>
+    </edge>
+    <edge source="9028008487" target="7137185143" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">57.99972926062005</data>
+    </edge>
+    <edge source="9028008487" target="8481827349" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">185.72071602874678</data>
+      <data key="d15">LINESTRING (106.879636 -6.1929446, 106.878819 -6.1928608, 106.8787468 -6.1928534, 106.8779641 -6.1927807)</data>
+    </edge>
+    <edge source="9028008487" target="9028249471" id="0">
+      <data key="d7">[1220583156, 975585381]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">11.91059372059</data>
+      <data key="d15">LINESTRING (106.879636 -6.1929446, 106.8796181 -6.1930323, 106.8796147 -6.1930496)</data>
+    </edge>
+    <edge source="9028008489" target="8506578064" id="0">
+      <data key="d7">1220583152</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">10.136320615302086</data>
+    </edge>
+    <edge source="9028008489" target="8481827344" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">68.17906826594322</data>
+      <data key="d15">LINESTRING (106.8779379 -6.1929808, 106.8774019 -6.1929279, 106.8773238 -6.1929265)</data>
+    </edge>
+    <edge source="9028008489" target="9687161270" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">68.37932102811735</data>
+      <data key="d15">LINESTRING (106.8779379 -6.1929808, 106.8783062 -6.1930211, 106.8785509 -6.1930614)</data>
+    </edge>
+    <edge source="9028115630" target="6498113937" id="0">
+      <data key="d7">692260229</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">80.82046362289366</data>
+    </edge>
+    <edge source="9028115630" target="9028115631" id="0">
+      <data key="d7">975595198</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">9.830002055345158</data>
+    </edge>
+    <edge source="9028115630" target="1311842352" id="0">
+      <data key="d7">692260229</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">25.498102456668406</data>
+      <data key="d15">LINESTRING (106.8789887 -6.1966547, 106.8789915 -6.1966955, 106.8790055 -6.1968834)</data>
+    </edge>
+    <edge source="9028115631" target="7224656701" id="0">
+      <data key="d7">692260228</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">81.17461226942899</data>
+    </edge>
+    <edge source="9028115631" target="9028115630" id="0">
+      <data key="d7">975595198</data>
+      <data key="d8">residential</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">9.830002055345158</data>
+    </edge>
+    <edge source="9028115631" target="4758805494" id="0">
+      <data key="d7">692260228</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Profesor Dokter Conny R. Semiawan</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">25.503587898611773</data>
+      <data key="d15">LINESTRING (106.8788998 -6.1966567, 106.878902 -6.1966974, 106.8789127 -6.1968857)</data>
+    </edge>
+    <edge source="9028249470" target="8496544024" id="0">
+      <data key="d7">975611068</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">27.273449656712884</data>
+    </edge>
+    <edge source="9028249471" target="7137185146" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">12.123155171896261</data>
+    </edge>
+    <edge source="9028249471" target="8506578064" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">184.90869134540134</data>
+    </edge>
+    <edge source="9028249471" target="8313064070" id="0">
+      <data key="d7">975585381</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">14.278185620487173</data>
+    </edge>
+    <edge source="9028249471" target="9028008487" id="0">
+      <data key="d7">[1220583156, 975585381]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">11.91059372059</data>
+      <data key="d15">LINESTRING (106.8796147 -6.1930496, 106.8796181 -6.1930323, 106.879636 -6.1929446)</data>
+    </edge>
+    <edge source="9028249477" target="6331051811" id="0">
+      <data key="d7">557278264</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">22.811757261030404</data>
+    </edge>
+    <edge source="9028249477" target="5374804755" id="0">
+      <data key="d7">557278264</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">32.77385241078359</data>
+    </edge>
+    <edge source="9346226527" target="7226690313" id="0">
+      <data key="d7">1053945183</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">8.607035125058975</data>
+      <data key="d15">LINESTRING (106.8811342 -6.1933607, 106.8811294 -6.1933484, 106.8811076 -6.1933262, 106.8810764 -6.1933144)</data>
+    </edge>
+    <edge source="9605264256" target="1311842316" id="0">
+      <data key="d7">1043696907</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksina Pati Barat IV</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">18.13635667419253</data>
+    </edge>
+    <edge source="9682636862" target="4905288509" id="0">
+      <data key="d7">1053617533</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">27.953822230594408</data>
+      <data key="d15">LINESTRING (106.8774722 -6.1956555, 106.8774718 -6.1955968, 106.8774576 -6.1955709, 106.8774305 -6.195559, 106.8772967 -6.1955451)</data>
+    </edge>
+    <edge source="9684385596" target="1311842385" id="0">
+      <data key="d7">1235249661</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">7.495656411292537</data>
+    </edge>
+    <edge source="9684385597" target="6498113937" id="0">
+      <data key="d7">774082617</data>
+      <data key="d8">residential</data>
+      <data key="d10">Jalan Daksinapati Timur</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">10.163906044678175</data>
+    </edge>
+    <edge source="9684739690" target="1320321336" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">7.363043094284739</data>
+    </edge>
+    <edge source="9684739690" target="324851913" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">3.264818763109568</data>
+    </edge>
+    <edge source="9684739699" target="4884984244" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">48.024407470617284</data>
+    </edge>
+    <edge source="9684739699" target="9684739702" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">14.700220092462004</data>
+    </edge>
+    <edge source="9684739699" target="9684739702" id="1">
+      <data key="d7">1053844580</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">55.27744524894613</data>
+      <data key="d15">LINESTRING (106.8806731 -6.1928491, 106.8806897 -6.1927212, 106.8806909 -6.1927078, 106.880693 -6.1926819, 106.8806826 -6.192664, 106.8806691 -6.1926561, 106.8805818 -6.192649, 106.8805625 -6.1926565, 106.8805532 -6.1926698, 106.8805503 -6.1926978, 106.8805486 -6.192712, 106.8805406 -6.1928379)</data>
+    </edge>
+    <edge source="9684739702" target="9684739699" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">14.700220092462004</data>
+    </edge>
+    <edge source="9684739702" target="9684739699" id="1">
+      <data key="d7">1053844580</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">55.27744524894614</data>
+      <data key="d15">LINESTRING (106.8805406 -6.1928379, 106.8805486 -6.192712, 106.8805503 -6.1926978, 106.8805532 -6.1926698, 106.8805625 -6.1926565, 106.8805818 -6.192649, 106.8806691 -6.1926561, 106.8806826 -6.192664, 106.880693 -6.1926819, 106.8806909 -6.1927078, 106.8806897 -6.1927212, 106.8806731 -6.1928491)</data>
+    </edge>
+    <edge source="9684739702" target="4884984239" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">7.967101255726712</data>
+    </edge>
+    <edge source="9684739709" target="1315125459" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">6.679591023564501</data>
+    </edge>
+    <edge source="9684739709" target="9684739712" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">28.757252374034664</data>
+    </edge>
+    <edge source="9684739709" target="9684739712" id="1">
+      <data key="d7">1053844581</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">60.95264123981869</data>
+      <data key="d15">LINESTRING (106.8814189 -6.1929234, 106.8814165 -6.1928869, 106.8814098 -6.1927842, 106.8813964 -6.1927575, 106.8813728 -6.1927466, 106.8811982 -6.1927358, 106.8811797 -6.1927416, 106.8811688 -6.1927608, 106.8811612 -6.1928593, 106.88116 -6.1928982)</data>
+    </edge>
+    <edge source="9684739712" target="9684739709" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">28.757252374034664</data>
+    </edge>
+    <edge source="9684739712" target="9684739709" id="1">
+      <data key="d7">1053844581</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">60.95264123981869</data>
+      <data key="d15">LINESTRING (106.88116 -6.1928982, 106.8811612 -6.1928593, 106.8811688 -6.1927608, 106.8811797 -6.1927416, 106.8811982 -6.1927358, 106.8813728 -6.1927466, 106.8813964 -6.1927575, 106.8814098 -6.1927842, 106.8814165 -6.1928869, 106.8814189 -6.1929234)</data>
+    </edge>
+    <edge source="9684739712" target="4884984244" id="0">
+      <data key="d7">28775345</data>
+      <data key="d16">9.35</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">6.077630230836789</data>
+    </edge>
+    <edge source="9685151096" target="7226690317" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">65.60317791479552</data>
+    </edge>
+    <edge source="9685151096" target="4884984666" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">15.29636147578734</data>
+    </edge>
+    <edge source="9685151096" target="7226690313" id="0">
+      <data key="d7">[1053899315, 1220583148]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">24.61553872411603</data>
+      <data key="d15">LINESTRING (106.8810891 -6.1930934, 106.881084 -6.1932025, 106.8810764 -6.1933144)</data>
+    </edge>
+    <edge source="9685151098" target="1696170853" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">False</data>
+      <data key="d14">16.379656955508317</data>
+    </edge>
+    <edge source="9685151098" target="7137185154" id="0">
+      <data key="d7">763467199</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">Jalan Pemuda</data>
+      <data key="d11">False</data>
+      <data key="d12">9</data>
+      <data key="d13">True</data>
+      <data key="d14">44.421312308376294</data>
+    </edge>
+    <edge source="9685151098" target="8481827344" id="0">
+      <data key="d7">[1220583153, 1053899316]</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">24.259665251407363</data>
+      <data key="d15">LINESTRING (106.8773743 -6.1927142, 106.8773461 -6.1928385, 106.8773238 -6.1929265)</data>
+    </edge>
+    <edge source="9685151100" target="9685151103" id="0">
+      <data key="d7">1053899317</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">38.251722637604416</data>
+      <data key="d15">LINESTRING (106.8798335 -6.196501, 106.8798447 -6.1966213, 106.8798453 -6.1966388, 106.879831 -6.1967782, 106.8798192 -6.1968427)</data>
+    </edge>
+    <edge source="9685151103" target="7224358837" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">False</data>
+      <data key="d14">11.853222078261728</data>
+    </edge>
+    <edge source="9685151103" target="6618132191" id="0">
+      <data key="d7">28775415</data>
+      <data key="d8">tertiary</data>
+      <data key="d9">2</data>
+      <data key="d10">Jalan Rawamangun Muka Raya</data>
+      <data key="d11">False</data>
+      <data key="d12">6</data>
+      <data key="d13">True</data>
+      <data key="d14">29.85397650297538</data>
+    </edge>
+    <edge source="9685151103" target="9685151100" id="0">
+      <data key="d7">1053899317</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">38.25172263760441</data>
+      <data key="d15">LINESTRING (106.8798192 -6.1968427, 106.879831 -6.1967782, 106.8798453 -6.1966388, 106.8798447 -6.1966213, 106.8798335 -6.196501)</data>
+    </edge>
+    <edge source="9685399802" target="4262120783" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">15.123989912442235</data>
+    </edge>
+    <edge source="9685399802" target="9027793150" id="0">
+      <data key="d7">975560252</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">149.6871441817808</data>
+      <data key="d15">LINESTRING (106.8775272 -6.1960811, 106.877534 -6.196579, 106.8775501 -6.196653, 106.8775997 -6.1967017, 106.8776869 -6.196727, 106.8783034 -6.1967272)</data>
+    </edge>
+    <edge source="9685399802" target="1315069330" id="0">
+      <data key="d7">1053937000</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">73.9562452509567</data>
+      <data key="d15">LINESTRING (106.8775272 -6.1960811, 106.8780797 -6.1960432, 106.8781011 -6.1960393, 106.8781121 -6.196018, 106.8781094 -6.1959491)</data>
+    </edge>
+    <edge source="9687161270" target="9687161275" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">73.1349519727425</data>
+    </edge>
+    <edge source="9687161270" target="9687161275" id="1">
+      <data key="d7">1054122161</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">78.83360160783776</data>
+      <data key="d15">LINESTRING (106.8785509 -6.1930614, 106.8785915 -6.1930349, 106.8786076 -6.1930302, 106.8786237 -6.1930289, 106.8791779 -6.1930755, 106.879196 -6.1930859, 106.8792057 -6.1931055, 106.879208 -6.1931378)</data>
+    </edge>
+    <edge source="9687161270" target="9028008489" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">68.37932102811735</data>
+      <data key="d15">LINESTRING (106.8785509 -6.1930614, 106.8783062 -6.1930211, 106.8779379 -6.1929808)</data>
+    </edge>
+    <edge source="9687161275" target="9687161270" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">73.1349519727425</data>
+    </edge>
+    <edge source="9687161275" target="9687161270" id="1">
+      <data key="d7">1054122161</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">78.83360160783775</data>
+      <data key="d15">LINESTRING (106.879208 -6.1931378, 106.8792057 -6.1931055, 106.879196 -6.1930859, 106.8791779 -6.1930755, 106.8786237 -6.1930289, 106.8786076 -6.1930302, 106.8785915 -6.1930349, 106.8785509 -6.1930614)</data>
+    </edge>
+    <edge source="9687161275" target="8313064070" id="0">
+      <data key="d7">454810044</data>
+      <data key="d8">service</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">42.59459756850571</data>
+    </edge>
+    <edge source="10741057666" target="1315069360" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">44.90436177611355</data>
+    </edge>
+    <edge source="10741057666" target="5492769434" id="0">
+      <data key="d7">571547724</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">21.60153365460469</data>
+    </edge>
+    <edge source="10741057666" target="6331178745" id="0">
+      <data key="d7">1154975859</data>
+      <data key="d8">living_street</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">19.735896951117322</data>
+    </edge>
+    <edge source="11249225451" target="7137185146" id="0">
+      <data key="d7">[763957832, 763957833]</data>
+      <data key="d18">yes</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">56.398811197570495</data>
+      <data key="d15">LINESTRING (106.8800627 -6.1929021, 106.8800445 -6.1930884, 106.879724 -6.1930585)</data>
+    </edge>
+    <edge source="11249225451" target="7137185150" id="0">
+      <data key="d7">[763957833, 763957834, 1221602953]</data>
+      <data key="d18">yes</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">46.46578298062969</data>
+      <data key="d15">LINESTRING (106.8800627 -6.1929021, 106.8800813 -6.192711, 106.8800366 -6.1927059, 106.8800324 -6.1927421, 106.8801074 -6.1927506, 106.8801361 -6.1927538, 106.8801315 -6.1927945)</data>
+    </edge>
+    <edge source="11249225451" target="11249225454" id="0">
+      <data key="d7">[1221593743, 1214154513, 1233188015]</data>
+      <data key="d18">yes</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">70.6211403173092</data>
+      <data key="d15">LINESTRING (106.8800627 -6.1929021, 106.8797849 -6.1928724, 106.8797865 -6.1928533, 106.8800383 -6.1928823, 106.8801244 -6.1928922)</data>
+    </edge>
+    <edge source="11249225454" target="11249225451" id="0">
+      <data key="d7">[1214154513, 1233188015, 1221593743]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">70.6211403173092</data>
+      <data key="d18">yes</data>
+      <data key="d15">LINESTRING (106.8801244 -6.1928922, 106.8800383 -6.1928823, 106.8797865 -6.1928533, 106.8797849 -6.1928724, 106.8800627 -6.1929021)</data>
+    </edge>
+    <edge source="11329756324" target="8506578064" id="0">
+      <data key="d7">894396216</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">False</data>
+      <data key="d14">21.169843708391337</data>
+    </edge>
+    <edge source="11329756324" target="7137185154" id="0">
+      <data key="d7">1221593742</data>
+      <data key="d8">footway</data>
+      <data key="d11">False</data>
+      <data key="d13">True</data>
+      <data key="d14">12.062858440707156</data>
+    </edge>
+    <edge source="11329756324" target="7137185157" id="0">
+      <data key="d7">[763957835, 1221593741, 763957837, 1221593742, 1113399582]</data>
+      <data key="d8">['steps', 'footway']</data>
+      <data key="d11">False</data>
+      <data key="d13">[False, True]</data>
+      <data key="d14">87.17761791743096</data>
+      <data key="d18">yes</data>
+      <data key="d15">LINESTRING (106.8777597 -6.1928666, 106.8777378 -6.1928626, 106.8776677 -6.192856, 106.8776702 -6.1928302, 106.8777212 -6.192835, 106.8777419 -6.1926169, 106.8777523 -6.1925079, 106.8778454 -6.1925166, 106.8778472 -6.1924981, 106.877754 -6.1924893, 106.8777381 -6.1924878, 106.8777312 -6.1925534)</data>
+    </edge>
+    <edge source="11466660716" target="1315069387" id="0">
+      <data key="d7">1235279362</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat II</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">5.191158676571307</data>
+    </edge>
+    <edge source="11524129544" target="1315069361" id="0">
+      <data key="d7">1240363031</data>
+      <data key="d8">residential</data>
+      <data key="d9">1</data>
+      <data key="d10">Jalan Daksina Pati Barat I</data>
+      <data key="d11">False</data>
+      <data key="d12">5</data>
+      <data key="d13">False</data>
+      <data key="d14">69.71776994493413</data>
+    </edge>
+    <data key="d0">2026-07-15 18:47:45</data>
+    <data key="d1">OSMnx 2.1.0</data>
+    <data key="d2">epsg:4326</data>
+    <data key="d3">True</data>
+  </graph>
+</graphml>
