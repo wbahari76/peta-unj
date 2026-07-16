@@ -58,7 +58,7 @@ section.main {
   animation: fadeInUp 0.35s ease both;
 }
 
-/* ── Content Cards (bungkus chart/tabel supaya konsisten & tidak "mengambang") ── */
+
 .content-card {
   background: var(--glass-bg);
   border: 1px solid var(--border);
@@ -96,7 +96,7 @@ section.main {
 
 .section-header:first-child { margin-top: 0.2rem; }
 
-/* ── Header / Title Bar  */
+
 .app-header {
   position: relative;
   overflow: hidden;
@@ -188,7 +188,7 @@ section.main {
   white-space: nowrap;
 }
 
-/* ── Sidebar  */
+
 [data-testid="stSidebar"],
 [data-testid="stSidebar"] > div,
 [data-testid="stSidebarUserContent"] {
@@ -214,7 +214,7 @@ section.main {
 
 .sidebar-section:first-child { border-top: none; margin-top: 0; }
 
-/* ── Metric Cards  */
+
 .metric-card {
   background: var(--glass-bg);
   border: 1px solid var(--border);
@@ -265,7 +265,7 @@ section.main {
 
 .metric-icon { font-size: 1.5rem; margin-bottom: 0.45rem; display: block; opacity: 0.9; }
 
-/* ── Route Info Card  */
+
 .route-card {
   background: linear-gradient(135deg, rgba(201,138,44,0.12), rgba(224,169,78,0.05));
   border: 1px solid rgba(201,138,44,0.35);
@@ -302,7 +302,7 @@ section.main {
   margin: 2px 0 2px 4px;
 }
 
-/* ── Tabs  */
+
 .stTabs [role="tablist"] {
   gap: 4px;
   background: var(--navy-600) !important;
@@ -338,7 +338,7 @@ section.main {
   background: var(--teal) !important;
 }
 
-/* ── Buttons  */
+
 .stButton > button {
   background: linear-gradient(135deg, var(--teal) 0%, #0A8F8A 100%) !important;
   color: #fff !important;
@@ -362,7 +362,7 @@ section.main {
   color: var(--teal-glow) !important;
 }
 
-/* ── Form elements  */
+
 .stSelectbox > div > div,
 .stMultiSelect > div > div,
 .stTextInput > div > div,
@@ -446,8 +446,7 @@ iframe[title="streamlit_folium.st_folium"] { width: 100% !important; }
   .leaflet-control-layers-expanded { padding: 4px 8px !important; font-size: 0.8rem !important; }
   .metric-value { font-size: 1.5rem; }
 
-  /* Tabs: wrap freely so all tabs always stay fully on-screen instead of
-     overflowing past the viewport edge (nowrap+scroll default). */
+  
   .stTabs [role="tablist"] {
     display: flex !important;
     flex-wrap: wrap !important;
@@ -463,7 +462,7 @@ iframe[title="streamlit_folium.st_folium"] { width: 100% !important; }
     flex: 1 1 auto !important;
   }
 
-  /* Bigger touch targets for buttons/inputs on small screens */
+  
   .stButton > button, .stDownloadButton > button { min-height: 42px !important; }
   .stSelectbox > div > div, .stMultiSelect > div > div { min-height: 42px !important; }
 }
