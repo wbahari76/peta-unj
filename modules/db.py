@@ -4,13 +4,37 @@ import json
 from datetime import datetime
 from typing import Optional
 import pandas as pd
+import tempfile
+import shutil
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'database', 'database.sqlite')
 
 def get_connection() -> sqlite3.Connection:
+    global DB_PATH
+    db_dir = os.path.dirname(DB_PATH)
+    
+    # Cek permission: Streamlit Cloud kadang read-only di folder mount
+    if os.path.exists(DB_PATH):
+        if not os.access(DB_PATH, os.W_OK) or not os.access(db_dir, os.W_OK):
+            tmp_db = os.path.join(tempfile.gettempdir(), 'peta_unj_tmp.sqlite')
+            if not os.path.exists(tmp_db):
+                shutil.copy2(DB_PATH, tmp_db)
+            DB_PATH = tmp_db
+    else:
+        # Jika belum ada dan direktori tidak bisa ditulis
+        if not os.path.exists(db_dir):
+            try:
+                os.makedirs(db_dir, exist_ok=True)
+            except OSError:
+                pass
+        if not os.access(db_dir, os.W_OK):
+            DB_PATH = os.path.join(tempfile.gettempdir(), 'peta_unj_tmp.sqlite')
+
     db_exists = os.path.exists(DB_PATH) and os.path.getsize(DB_PATH) > 0
     conn = sqlite3.connect(DB_PATH, check_same_thread=False)
     conn.row_factory = sqlite3.Row
     conn.execute('PRAGMA foreign_keys = ON')
+    # Gunakan memory journal agar SQLite tidak mencoba membuat file -journal di direktori jika dibatasi
+    conn.execute('PRAGMA journal_mode = MEMORY')
     cursor = conn.cursor()
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='gedung'")
     table_exists = cursor.fetchone()
